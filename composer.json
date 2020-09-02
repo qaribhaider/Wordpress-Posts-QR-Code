@@ -1,0 +1,15 @@
+{
+    "name": "qarib/link-qr-code",
+    "description": "Sqhr_Link_Qr_Code",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Qarib",
+            "email": "qaribhaider@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.2",
+        "wp-user-manager/wp-optionskit": "^1.0"
+    }
+}
