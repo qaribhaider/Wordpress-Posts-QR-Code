@@ -14,9 +14,9 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Link QR Code
- * Plugin URI:        https://wordpress.org/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
- * Version:           1.0.0
+ * Plugin URI:        https://github.com/qaribhaider/Wordpress-Posts-QR-Code
+ * Description:       Add a QR code to each post, page and custom post type
+ * Version:           1.0.1
  * Author:            Qarib Haider
  * Author URI:        https://twitter.com/syedqarib
  * License:           GPL-2.0+
@@ -35,7 +35,7 @@ if (!defined('WPINC')) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Rename this for your plugin and update it as you release new versions.
  */
-define('SQHR_LINK_QR_CODE_VERSION', '1.0.0');
+define('SQHR_LINK_QR_CODE_VERSION', '1.0.1');
 
 /**
  * The code that runs during plugin activation.
