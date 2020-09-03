@@ -5,7 +5,7 @@ This plugin adds a QR Code for each post (link) published on the site. The plugi
 
 ### Installation
 
-- Install the plugin from WordPress directory OR upload the plugin to plugins directory after downloading from here
+- Install the plugin from WordPress directory OR upload the plugin to plugins directory after downloading from here (make sure to install composer dependencies if you are directly downloading from github)
 - Activate the plugin
 
 ### Settings
